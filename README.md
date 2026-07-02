@@ -4,7 +4,7 @@ Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM.
 
 ## Índice
 
-- Objetivos
+- [Objetivos](#-objetivos
 
 ## Objetivos 
 - Aprender SQL 
