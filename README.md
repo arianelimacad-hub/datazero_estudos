@@ -16,3 +16,7 @@ Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM.
 - NotebookLM
 - SQL
 - Markdown
+
+## Próximos Passos
+
+## Autora
