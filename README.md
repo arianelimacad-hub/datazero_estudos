@@ -2,7 +2,7 @@
 Projeto de estudo utilizando NotebookLM para aprendizagem sobre bancos de dados relacionais.
 Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM. 
 
-# Objetivos - Aprender SQL 
+## Objetivos - Aprender SQL 
 - Estudar Banco de Dados
 - Criar um portfólio no GitHub
   
