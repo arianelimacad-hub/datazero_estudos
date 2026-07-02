@@ -1,5 +1,6 @@
 # datazero_estudos
-Projeto de estudo utilizando NotebookLM para aprendizagem sobre bancos de dados relacionais.# NotebookLM - Bancos de Dados Relacionais Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM. 
+Projeto de estudo utilizando NotebookLM para aprendizagem sobre bancos de dados relacionais.
+Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM. 
 
 ## Objetivos - Aprender SQL 
 - Estudar Banco de Dados
