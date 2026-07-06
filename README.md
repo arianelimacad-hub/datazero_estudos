@@ -1,6 +1,5 @@
 # datazero_estudos
-Projeto de estudo utilizando NotebookLM para aprendizagem sobre bancos de dados relacionais.
-Projeto desenvolvido para organizar meus estudos utilizando o NotebookLM. 
+Projeto desenvolvido para organizar meus estudos sobre bancos de dados relacionais utilizando NotebookLM 
 
 ## Índice
 
