@@ -6,8 +6,9 @@ Projeto desenvolvido para organizar meus estudos sobre bancos de dados relaciona
 [Objetivos](#-objetivos)
 
 ## Objetivos 
-- Aprender SQL 
-- Estudar Banco de Dados
+- Conceitos gerais de bancos de dados
+- Fundamentos básico para analisar dados com excelência 
+- Aprendizagem da linguagem SQL 
 - Criar um portfólio no GitHub
   
 ## Tecnologias
@@ -17,5 +18,14 @@ Projeto desenvolvido para organizar meus estudos sobre bancos de dados relaciona
 - Markdown
 
 ## Próximos Passos
+
+| Fonte                       | Descrição                     |
+| --------------------------- | ----------------------------- |
+| PostgreSQL Documentation    | Documentação oficial          |
+| SQLBolt                     | Exercícios interativos de SQL |
+| W3Schools SQL               | Referência rápida             |
+| Microsoft SQL Documentation | Conceitos sobre SQL           |
+| Oracle Database Concepts    | Fundamentos de banco de dados |
+
 
 ## Autora
