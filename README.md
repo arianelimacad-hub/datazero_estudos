@@ -11,31 +11,26 @@ Projeto desenvolvido para organizar meus estudos sobre analise de dados  bancos 
 - Aprendizagem da linguagem SQL 
 - Criar um portfólio no GitHub
   
-## Tecnologias
+## Tecnologias Utilizadas
+
 - GitHub
 - NotebookLM
-
+- Sql
 - Markdown
+- ChatGPT
+ 
 
-  ## Tecnologias Utilizadas
-
-| Tecnologia | Finalidade |
-|------------|------------|
-| SQL | Consultas |
-| NotebookLM | Organização do conteúdo |
-| GitHub | Versionamento |
-| ChatGPT| Auxilio de aprendizagem |
-
-## Próximos Passos
+## Fontes 
 
 | Fonte                       | Descrição                     |
 | --------------------------- | ----------------------------- |
 | Introdução a Banco de Dados Relacionais DIO.  |  pdf disponibilizado pela DIO      |
 | SQLBolt                     | Exercícios interativos de SQL |
-|               | Referência rápida             |
+| https://www.ibm.com/br-pt/think/topics/database   |          |
 | |            |
 |    | Fundamentos de banco de dados |
 
 ## Glossário
+## Próximos Passos
 
 ## Autora
