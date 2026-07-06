@@ -25,9 +25,9 @@ Projeto desenvolvido para organizar meus estudos sobre analise de dados  bancos 
 | Fonte                       | Descrição                     |
 | --------------------------- | ----------------------------- |
 | Introdução a Banco de Dados Relacionais DIO.  |  pdf disponibilizado pela DIO      |
-| SQLBolt                     | Exercícios interativos de SQL |
-| https://www.ibm.com/br-pt/think/topics/database   |          |
-| |            |
+| https://www.sqltutorial.org/what-is-sql/           | Exercícios interativos de SQL |
+| https://www.ibm.com/br-pt/think/topics/database   |   Guia de gerenciamento de dados     |
+| www.databricks.com/br/blog/what-is-relational-database| O que é um Banco de Dados Relacional (SGBDR)           | 
 |    | Fundamentos de banco de dados |
 
 ## Glossário
