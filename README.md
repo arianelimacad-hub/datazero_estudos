@@ -24,6 +24,7 @@ Projeto desenvolvido para organizar meus estudos sobre bancos de dados relaciona
 | SQL | Consultas |
 | NotebookLM | Organização do conteúdo |
 | GitHub | Versionamento |
+| ChatGPT| Auxilio de aprendizagem |
 
 ## Próximos Passos
 
