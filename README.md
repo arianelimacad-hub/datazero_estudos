@@ -14,8 +14,16 @@ Projeto desenvolvido para organizar meus estudos sobre bancos de dados relaciona
 ## Tecnologias
 - GitHub
 - NotebookLM
-- SQL
+
 - Markdown
+
+  ## Tecnologias Utilizadas
+
+| Tecnologia | Finalidade |
+|------------|------------|
+| SQL | Consultas |
+| NotebookLM | Organização do conteúdo |
+| GitHub | Versionamento |
 
 ## Próximos Passos
 
