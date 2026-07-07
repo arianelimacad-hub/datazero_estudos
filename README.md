@@ -30,6 +30,11 @@ Projeto desenvolvido para organizar meus estudos sobre analise de dados  bancos 
 | https://www.databricks.com/br/blog/what-is-relational-database|Banco de Dados Relacional (SGBDR)| 
 |  https://www.oracle.com/database/what-is-database/  | O que é um banco de dados? |
 
+## Prompts
+1.Aja como  um expert analista de dados e liste 10 tópicos mais importantes que um estudante deveria saber durante a jornada de migração para area de dados.
+
+2.Visto que analise de dados não é só dominar ferramentas, resuma em paragrafo como um profissional experiente trabalha para entender a necessidade do negocio?
+
 ## Glossário
 ## Próximos Passos
 
