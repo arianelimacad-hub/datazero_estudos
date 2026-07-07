@@ -24,11 +24,11 @@ Projeto desenvolvido para organizar meus estudos sobre analise de dados  bancos 
 
 | Fonte                       | Descrição                     |
 | --------------------------- | ----------------------------- |
-| [Introdução a Banco de Dados Relacionais](https://docs.google.com/presentation/d/1AmB5Cdc7GEMB3nVFnF8C2aPlJeIoNtPC/edit?usp=sharing&ouid=103803960985611188298&rtpof=true&sd=true)|pdf disponibilizado pela DIO|
+| |pdf disponibilizado pela DIO|
 | https://www.sqltutorial.org/what-is-sql/| Exercícios interativos de SQL|
 | https://www.ibm.com/br-pt/think/topics/database   |   Guia de gerenciamento de dados|
 | https://www.databricks.com/br/blog/what-is-relational-database|Banco de Dados Relacional (SGBDR)| 
-|    | Fundamentos de banco de dados |
+|  https://www.oracle.com/database/what-is-database/  | O que é um banco de dados? |
 
 ## Glossário
 ## Próximos Passos
